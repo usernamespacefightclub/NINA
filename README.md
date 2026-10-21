@@ -1,3 +1,5 @@
+<img width="630" height="514" alt="image" src="https://github.com/user-attachments/assets/b8d39352-7168-445f-a3da-df12ece97e1a" />
+
 This project is based on the work of the late great Mootilda. Nothing I did here would have been possible without the legacy of the original Clean Installer. She is the most important person here.
 
 NINA is an independent reimplementation based on the file format specification. In other words: instead of taking the original code and just changing the language, the program was built from scratch by understanding how `.sims2pack` files are actually structured internally — and then recreating, in its own way, a smaller and simpler version focused on properly reading and installing these files, without all the extra weight of screens, dependencies, and side features.
