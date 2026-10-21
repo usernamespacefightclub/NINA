@@ -73,7 +73,7 @@ python3 gui.py /path/to/file.sims2pack
 
 That's already enough to use it. The steps below are optional: they make NINA appear in your application menu and let it open automatically when you double-click a `.sims2pack`.
 
-## 4. (Optional) Add it to the application menu and associate `.sims2pack` files
+## 4. Add it to the application menu and associate `.sims2pack` files
 
 Run these commands **from inside the NINA folder**. They create three files in your user directory (nothing is installed system-wide, so you don't need `sudo`).
 
@@ -174,6 +174,8 @@ In short: Clean Installer is the reference. NINA is the version made specificall
 Soon I'll open up ways to support me.
 
 Keep in mind that I made all of this over the course of a few months while suffering through the free tiers of Claude, Kimi, and Gemini.
+
+The available languages ​​were chosen based on empirical observation of which languages ​​are most common within the community, as well as through research. It is unlikely that any additional languages ​​will be added.
 
 I don't really know how GitHub works, so sorry if I did something wrong. Everything here looks confusing. That's why I encourage an actual programmer to fork or get the project transfred even more.
 
