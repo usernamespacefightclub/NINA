@@ -73,8 +73,6 @@ To open a package directly:
 python3 gui.py /path/to/file.sims2pack
 ```
 
-That's already enough to use it. The steps below are optional: they make NINA appear in your application menu and let it open automatically when you double-click a `.sims2pack`.
-
 ## 4. Add it to the application menu and associate `.sims2pack` files
 
 Run these commands **from inside the NINA folder**. They create three files in your user directory (nothing is installed system-wide, so you don't need `sudo`).
